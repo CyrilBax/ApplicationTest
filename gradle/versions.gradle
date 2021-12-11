@@ -1,0 +1,14 @@
+ext {
+    versions = [
+            'android'         : [
+                    'buildGradle': '7.0.3',
+                    'minSdk'     : 21,
+                    'targetSdk'  : 31,
+                    'compileSdk' : 31
+            ],
+            'appCompat'       : '1.4.0',
+            'material'        : '1.4.0',
+            'constraintlayout': '2.1.2'
+
+    ]
+}
